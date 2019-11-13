@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaArray", "LibreriaArray\LibreriaArray.csproj", "{025152CC-ED46-4BF2-AB29-6D1359CA039A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaArray", "ProvaArray\ProvaArray.csproj", "{B9333F86-708E-4734-AF7E-63840701DD33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{025152CC-ED46-4BF2-AB29-6D1359CA039A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{025152CC-ED46-4BF2-AB29-6D1359CA039A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{025152CC-ED46-4BF2-AB29-6D1359CA039A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9333F86-708E-4734-AF7E-63840701DD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9333F86-708E-4734-AF7E-63840701DD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9333F86-708E-4734-AF7E-63840701DD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9333F86-708E-4734-AF7E-63840701DD33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
